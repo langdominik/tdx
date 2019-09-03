@@ -38,5 +38,3 @@ Acknowledgement
 
 We thank the Austrian National Bank for supporting our research project number 17028 as part of the OeNB Anniversary Fund. 
 
-We thank Christoph Lampert for providing his implementation of the EDD approach and Utrecht
-University for providing the Gemini cluster for computations.
