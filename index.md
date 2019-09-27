@@ -28,13 +28,18 @@ This site is dedicated to the Temporal Density Extrapolation ('TDX') method publ
 The full article can be found on [it's page at Springer](https://rdcu.be/bP6t5) .
 
 
-Is the code available?
----------------------
+### Code
 
 We created a [public repository on Bitbucket](https://bitbucket.org/grazdriftmining/tdx_demo/) that contains the core code of the tdx method as well as a short demo of the method.
 
-Acknowledgement
----------------------
+
+### Other resources
+
+The article has been presented at ECML-PKDD 2019, the [presentation](https://drive.google.com/open?id=1Mgn0G_8gS6DF2ixLLdVp1qut39mGnW96) and the corresponding [poster](https://drive.google.com/open?id=13ARWltAwz1y4dty2iWISttNUWu3W9AxF) are available. 
+
+
+### Acknowledgement
+
 
 We thank the Austrian National Bank for supporting our research project number 17028 as part of the OeNB Anniversary Fund. 
 
